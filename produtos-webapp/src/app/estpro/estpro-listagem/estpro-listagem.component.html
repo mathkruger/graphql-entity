@@ -1,0 +1,21 @@
+<nav class="navbar navbar-expand-lg navbar-light bg-light">
+  <p class="navbar-brand mb-0 d-flex align-items-center">
+    <img src="/assets/iconesAplicacao/logo-black.png" class="d-inline-block align-top" alt="">
+    <span class="ml-1 h4 mb-1">GraphQL - Apollo</span>
+  </p>
+</nav>
+
+<table class="table">
+  <thead>
+    <th>Código</th>
+    <th>Descrição</th>
+  </thead>
+
+  <tbody>
+    <tr *ngFor="let item of estpro | async">
+      <td>{{ item.codprod }}</td>
+      <td>{{ item.descri }}</td>
+    </tr>
+  </tbody>
+</table>
+
