@@ -1,12 +1,4 @@
-﻿using System;
-using Microsoft.AspNetCore.Mvc;
-using Microsoft.AspNetCore.Authorization;
-using System.IdentityModel.Tokens.Jwt;
-using System.Security.Claims;
-using System.Security.Principal;
-using Microsoft.IdentityModel.Tokens;
-using APIProdutos.Business;
-using APIProdutos.Models;
+﻿using Microsoft.AspNetCore.Mvc;
 using APIProdutos.Queries;
 using GraphQL;
 using System.Threading.Tasks;
@@ -33,7 +25,7 @@ namespace APIProdutos.Controllers
 
             var schema = new Schema()
             {
-                Query = new EatMoreQuery(_db)
+                Query = new EstproQuery(_db)
             };
 
             var result = await new DocumentExecuter().ExecuteAsync(_ =>

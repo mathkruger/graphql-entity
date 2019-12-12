@@ -1,28 +1,31 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ms-kr\\Documents\\Projetos\\ASPNETCore2_CRUD-API-JWT-EFInMemory-master\\APIProdutos\\APIProdutos.csproj": {}
+    "C:\\Users\\matheus.silva\\Documents\\Projetos\\testes\\graphql-entity\\APIProdutos\\APIProdutos.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ms-kr\\Documents\\Projetos\\ASPNETCore2_CRUD-API-JWT-EFInMemory-master\\APIProdutos\\APIProdutos.csproj": {
+    "C:\\Users\\matheus.silva\\Documents\\Projetos\\testes\\graphql-entity\\APIProdutos\\APIProdutos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ms-kr\\Documents\\Projetos\\ASPNETCore2_CRUD-API-JWT-EFInMemory-master\\APIProdutos\\APIProdutos.csproj",
+        "projectUniqueName": "C:\\Users\\matheus.silva\\Documents\\Projetos\\testes\\graphql-entity\\APIProdutos\\APIProdutos.csproj",
         "projectName": "APIProdutos",
-        "projectPath": "C:\\Users\\ms-kr\\Documents\\Projetos\\ASPNETCore2_CRUD-API-JWT-EFInMemory-master\\APIProdutos\\APIProdutos.csproj",
-        "packagesPath": "C:\\Users\\ms-kr\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ms-kr\\Documents\\Projetos\\ASPNETCore2_CRUD-API-JWT-EFInMemory-master\\APIProdutos\\obj\\",
+        "projectPath": "C:\\Users\\matheus.silva\\Documents\\Projetos\\testes\\graphql-entity\\APIProdutos\\APIProdutos.csproj",
+        "packagesPath": "C:\\Users\\matheus.silva\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\matheus.silva\\Documents\\Projetos\\testes\\graphql-entity\\APIProdutos\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\ms-kr\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\matheus.silva\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp2.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "S:\\Nugets": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -49,11 +52,11 @@
             },
             "Microsoft.AspNetCore.All": {
               "target": "Package",
-              "version": "[2.0.5, )"
+              "version": "[2.0.9, )"
             },
             "Microsoft.EntityFrameworkCore.InMemory": {
               "target": "Package",
-              "version": "[2.0.1, )"
+              "version": "[2.0.3, )"
             },
             "Microsoft.NETCore.App": {
               "suppressParent": "All",

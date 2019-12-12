@@ -19,3 +19,16 @@ C:\Users\ms-kr\Documents\Projetos\ASPNETCore2_CRUD-API-JWT-EFInMemory-master\API
 C:\Users\ms-kr\Documents\Projetos\ASPNETCore2_CRUD-API-JWT-EFInMemory-master\APIProdutos\bin\Debug\netcoreapp2.0\APIProdutos.pdb
 C:\Users\ms-kr\Documents\Projetos\ASPNETCore2_CRUD-API-JWT-EFInMemory-master\APIProdutos\obj\Debug\netcoreapp2.0\APIProdutos.dll
 C:\Users\ms-kr\Documents\Projetos\ASPNETCore2_CRUD-API-JWT-EFInMemory-master\APIProdutos\obj\Debug\netcoreapp2.0\APIProdutos.pdb
+C:\Users\matheus.silva\Documents\Projetos\testes\graphql-entity\APIProdutos\obj\Debug\netcoreapp2.0\APIProdutos.dll
+C:\Users\matheus.silva\Documents\Projetos\testes\graphql-entity\APIProdutos\obj\Debug\netcoreapp2.0\APIProdutos.pdb
+C:\Users\matheus.silva\Documents\Projetos\testes\graphql-entity\APIProdutos\bin\Debug\netcoreapp2.0\appsettings.Development.json
+C:\Users\matheus.silva\Documents\Projetos\testes\graphql-entity\APIProdutos\bin\Debug\netcoreapp2.0\appsettings.json
+C:\Users\matheus.silva\Documents\Projetos\testes\graphql-entity\APIProdutos\bin\Debug\netcoreapp2.0\Properties\launchSettings.json
+C:\Users\matheus.silva\Documents\Projetos\testes\graphql-entity\APIProdutos\bin\Debug\netcoreapp2.0\APIProdutos.deps.json
+C:\Users\matheus.silva\Documents\Projetos\testes\graphql-entity\APIProdutos\bin\Debug\netcoreapp2.0\APIProdutos.runtimeconfig.json
+C:\Users\matheus.silva\Documents\Projetos\testes\graphql-entity\APIProdutos\bin\Debug\netcoreapp2.0\APIProdutos.runtimeconfig.dev.json
+C:\Users\matheus.silva\Documents\Projetos\testes\graphql-entity\APIProdutos\bin\Debug\netcoreapp2.0\APIProdutos.dll
+C:\Users\matheus.silva\Documents\Projetos\testes\graphql-entity\APIProdutos\bin\Debug\netcoreapp2.0\APIProdutos.pdb
+C:\Users\matheus.silva\Documents\Projetos\testes\graphql-entity\APIProdutos\obj\Debug\netcoreapp2.0\APIProdutos.csprojAssemblyReference.cache
+C:\Users\matheus.silva\Documents\Projetos\testes\graphql-entity\APIProdutos\obj\Debug\netcoreapp2.0\APIProdutos.AssemblyInfoInputs.cache
+C:\Users\matheus.silva\Documents\Projetos\testes\graphql-entity\APIProdutos\obj\Debug\netcoreapp2.0\APIProdutos.AssemblyInfo.cs
