@@ -1,0 +1,6 @@
+C:\Users\ms-kr\Documents\Projetos\ASPNETCore2_CRUD-API-JWT-EFInMemory-master\APIProdutos\obj\Debug\netcoreapp3.1\APIProdutos.csprojAssemblyReference.cache
+C:\Users\ms-kr\Documents\Projetos\ASPNETCore2_CRUD-API-JWT-EFInMemory-master\APIProdutos\obj\Debug\netcoreapp3.1\staticwebassets\APIProdutos.StaticWebAssets.Manifest.cache
+C:\Users\ms-kr\Documents\Projetos\ASPNETCore2_CRUD-API-JWT-EFInMemory-master\APIProdutos\obj\Debug\netcoreapp3.1\staticwebassets\APIProdutos.StaticWebAssets.xml
+C:\Users\ms-kr\Documents\Projetos\ASPNETCore2_CRUD-API-JWT-EFInMemory-master\APIProdutos\obj\Debug\netcoreapp3.1\APIProdutos.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ms-kr\Documents\Projetos\ASPNETCore2_CRUD-API-JWT-EFInMemory-master\APIProdutos\obj\Debug\netcoreapp3.1\APIProdutos.AssemblyInfoInputs.cache
+C:\Users\ms-kr\Documents\Projetos\ASPNETCore2_CRUD-API-JWT-EFInMemory-master\APIProdutos\obj\Debug\netcoreapp3.1\APIProdutos.AssemblyInfo.cs
